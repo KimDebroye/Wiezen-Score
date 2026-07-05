@@ -87,7 +87,7 @@ A specialized entry mode for penalties (e.g., misdeals) or custom house rules.
 If no contracts are bid, players can choose to simply pass. The round is recorded with 0 points for everyone, tracking the progression without affecting totals.
 
 ### More Info & Official Rules
-🔗 [Official (Belgian) Whiss Rules](https://www.whistiwwa.com/reglementen-tornooien)
+🔗 [Official (Belgian) Whist Rules](https://www.whistiwwa.com/reglementen-tornooien)
 
 ---
 
