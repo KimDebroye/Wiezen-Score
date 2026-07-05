@@ -187,3 +187,10 @@ If one or more conflicts exist (meaning imported session IDs match existing ones
 ### Production Bundling Flow
 
 In production mode, the application compiles through Vite for high-performance client-side execution.
+
+---
+
+## Credits
+- My _little_ sister for the idea: _she just likes to write down scores with pencil on paper & knows scoring by heard_.
+- [Whist IWWA](https://www.whistiwwa.com): _official rules & scoring sheet_.
+- [Google AI Studio](https://aistudio.google.com): _for vibe coding with me_.
