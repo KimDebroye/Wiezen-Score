@@ -1,0 +1,6 @@
+{
+  "name": "Wiezen Score",
+  "description": "Een eenvoudige en intuïtieve app om de score bij te houden van het kaartspel wiezen, gebaseerd op een handgeschreven notitieblok.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
