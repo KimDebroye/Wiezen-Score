@@ -196,5 +196,6 @@ In production mode, the application compiles through Vite for high-performance c
 
 ## Credits
 - My _little_ sister for the idea: _she just likes to write down scores with pencil on paper & knows scoring by heard_.
+- My family: for their card game (_and thus real-life testing ground_) sessions.
 - [Whist IWWA](https://www.whistiwwa.com): _official rules & scoring sheet_.
 - [Google AI Studio](https://aistudio.google.com): _for vibe coding with me_.
