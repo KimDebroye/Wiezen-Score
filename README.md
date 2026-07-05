@@ -1,6 +1,6 @@
 # Wiezen Score
 
-A high-performance, polished, and fully offline-first companion application designed to track and calculate scores for the traditional Belgian card game **Whist (Wiezen)**.
+A high-performance, polished, and fully offline-first companion application designed to track and calculate scores for the traditional card game **Whist (Wiezen)**.
 
 ---
 
@@ -87,7 +87,7 @@ A specialized entry mode for penalties (e.g., misdeals) or custom house rules.
 If no contracts are bid, players can choose to simply pass. The round is recorded with 0 points for everyone, tracking the progression without affecting totals.
 
 ### More Info & Official Rules
-🔗 [Official (Belgian) Whist Rules](https://www.whistiwwa.com/reglementen-tornooien)
+🔗 [Official Whist Rules](https://www.whistiwwa.com/reglementen-tornooien)
 
 ---
 
