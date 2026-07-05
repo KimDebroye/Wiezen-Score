@@ -9,8 +9,8 @@ A high-performance, polished, and fully offline-first companion application desi
 (_hosted on Google servers_)
 
 ### Supported Languages
-- Dutch (Nederlands | Default)
-- English
+- **Dutch** (_Nederlands_ | _Default_)
+- **English**
 
 ---
 
