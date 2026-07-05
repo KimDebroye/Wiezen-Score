@@ -45,7 +45,7 @@ Here is what you can do with this app:
 *   **Customizable Target Tricks (Doelslagen)**: 
     *   **Dedicated Configuration Section**: Adjust the tricks required to win for Vraag & Antwoord Together (default 8), Vraag & Antwoord Alone (default 5), and Troel (default 8) to match your local pub's house rules.
     *   **Dynamic UI Scaling**: The scoring sliders, win/loss color codes, basis labels, and help widgets automatically recalibrate to reflect your custom target thresholds.
-    *   **Independent Settings Restoration**: Revert your target tricks or points scoring settings back to official rules independently with specialized "Restore Defaults" (Herstel Standaard) buttons.
+    *   **Independent Settings Restoration**: Revert your target tricks or points scoring settings back to official rules independently with "Restore Defaults" buttons.
 *   **Robust Backup & CSV Import/Export**:
     *   Download your entire played history or single sessions as CSV backups or copy a single session result to the clipboard for easy score sharing.
     *   Import backups with intelligent conflict resolution (choose to completely overwrite, append new games, or resolve duplicated games by choosing to overwrite or keep existing ones).
