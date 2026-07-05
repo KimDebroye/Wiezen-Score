@@ -12,7 +12,7 @@ A high-performance, polished, and fully offline-first companion application desi
 
 ## 📱 Install & Auto-Save
 
-Installing this website as an app is recommended for persistance (scores/settings/...).<br />
+Installing the scoring website as an app is recommended for persistance (scores/settings/...).<br />
 The application contains zero third-party telemetry, tracking libraries, or heavy external web dependencies, loading instantaneously with optimal layouts for smartphones, tablets, and desktops.
 
 - **How to Install (PWA)**:
