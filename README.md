@@ -8,6 +8,10 @@ A high-performance, polished, and fully offline-first companion application desi
 🔗 **[Latest Version](https://ais-pre-2islevhmt3dp3q5rjor5y7-460629003467.europe-west3.run.app)**
 (_hosted on Google servers_)
 
+###Supported Languages
+- Dutch (Nederlands | Default)
+- English
+
 ---
 
 ## 📱 Install & Auto-Save
