@@ -58,7 +58,7 @@ Here is what you can do with this app:
 
 ---
 
-## 📊 Rigorous Scoring Rules & Calculations
+## 📊 Scoring Rules & Calculations
 
 Whist is a **zero-sum game**: all points gained by winners are paid directly by losers, ensuring the net sum of all round score deltas is always precisely **zero**. The scoreboard follows official **International World Whist Association (IWWA)** guidelines.
 
